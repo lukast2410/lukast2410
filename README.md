@@ -10,3 +10,6 @@ I'm responsible for the development of Junior Laboratory Assistant at Bina Nusan
 - Manage Junior Laboratory Assistants' training and research.
 - Ensure the Junior Laboratory Assistants are up-to-date with the current technology.
 - Ensure the Junior Laboratory Assistants are qualified for teaching allocated subjects.
+
+[![Lukas Tanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukast2410&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukast2410&layout=compact&langs_count=8&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
